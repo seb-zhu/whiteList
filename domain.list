@@ -50,5 +50,9 @@ s2.coinmarketcap.com,
 stats.g.doubleclick.net,
 hmainnet.era.zksync.io,
 rpc.linea.build,
-base.publicnode.com,
-walletlink.org
+publicnode.com,
+walletlink.org,
+oklink.com,
+n65535.com,
+pego.network,
+ankr.com
